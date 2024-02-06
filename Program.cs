@@ -10,8 +10,8 @@ namespace Address_Book
     {
         static void Main(string[] args)
         {
-
-
+            AddressBook.Greet();
+            Console.ReadLine();
         }
     }
 }

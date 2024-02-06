@@ -1,0 +1,7 @@
+C:\Users\hp\Desktop\LocoBuzz\Training\Address_Book\bin\Debug\Address_Book.exe.config
+C:\Users\hp\Desktop\LocoBuzz\Training\Address_Book\bin\Debug\Address_Book.exe
+C:\Users\hp\Desktop\LocoBuzz\Training\Address_Book\bin\Debug\Address_Book.pdb
+C:\Users\hp\Desktop\LocoBuzz\Training\Address_Book\obj\Debug\Address_Book.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\LocoBuzz\Training\Address_Book\obj\Debug\Address_Book.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\LocoBuzz\Training\Address_Book\obj\Debug\Address_Book.exe
+C:\Users\hp\Desktop\LocoBuzz\Training\Address_Book\obj\Debug\Address_Book.pdb
