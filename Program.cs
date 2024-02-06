@@ -11,6 +11,9 @@ namespace Address_Book
         static void Main(string[] args)
         {
             AddressBook.Greet();
+            Contact person=new Contact();
+            Console.WriteLine(person);
+
             Console.ReadLine();
         }
     }
